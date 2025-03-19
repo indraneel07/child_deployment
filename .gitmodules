@@ -1,0 +1,3 @@
+[submodule "common_repo"]
+	path = common_repo
+	url = https://github.com/indraneel07/common_repo
